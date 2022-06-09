@@ -141,16 +141,6 @@
          margin-bottom: 10px;
      }
  }
- .formacao-container::after {
-     content: " ";
-     display: block;
-     width: 130px;
-     height: 100px;
-     background: url(../img/detalhe.svg) no-repeat center center ;
-     position: absolute;
-     bottom: -50px;
-     left: 20px;
- }
  @media (max-width: 800px) {
     .experiencia .experiencia {
          grid-template-columns: 1fr;
